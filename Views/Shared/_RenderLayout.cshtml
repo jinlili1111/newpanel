@@ -1,0 +1,33 @@
+﻿  
+@RenderBody() 
+<script>
+   /* Initialize app when page loads */
+    $(function () {
+        App.init(false);
+        TablesGeneral.init();
+
+        /* Validate */
+        jQuery.validator.messages.required = '请输入数据!';
+        jQuery.validator.messages.digits = "请输入正确的格式!";
+        jQuery.validator.messages.date = "请输入正确的月份,例如:1/1/2000 12:00:00 AM";
+        jQuery.validator.messages.number = "请输入正确的格式!";
+        jQuery.validator.addClassRules({
+            'must-digits': {
+                digits: true,
+                required: true
+            },
+            'must-number': {
+                number: true,
+                required: true
+            },
+            'must-date': {
+                required: true,
+                date: true
+            },
+            'must-required': {
+                required: true
+            }
+        });
+    });
+</script>
+@RenderSection("scripts", required: false)

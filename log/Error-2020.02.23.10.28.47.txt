@@ -1,0 +1,8 @@
+2020-02-23 10:28:47 Error: GetAllShopItem System.IndexOutOfRangeException: LimitGrade
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.ProduceBussiness.InitShopItemInfo(SqlDataReader reader)
+   在 Tank.Data.ProduceBussiness.GetAllShopItem()
+2020-02-23 10:28:48 Error: GetAllShopGoodsShowList System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllShopGoodsShowList()

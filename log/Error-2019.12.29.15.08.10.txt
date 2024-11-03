@@ -1,0 +1,842 @@
+2019-12-29 15:08:10 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:11 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()
+2019-12-29 15:08:12 Error: GetAllNewTitle System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllNewTitle()

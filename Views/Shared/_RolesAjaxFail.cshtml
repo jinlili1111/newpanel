@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "访问被拒绝!";
+}
+
+<div class="block">
+    <!-- Warning Alert -->
+    <div class="alert alert-warning">
+        <p>由于访问限制,您无法访问此页面!联系站点管理员LIayuan了解详细信息.</p>
+        <p>@Html.ActionLink("登出", "LogOff", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-sm btn-success" })</p>
+    </div>
+    <!-- END Warning Alert -->
+</div>

@@ -1,0 +1,80 @@
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:26 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:37 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:38 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:46 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2019-12-29 14:46:54 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)

@@ -1,0 +1,4 @@
+2020-01-11 00:31:33 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)
+2020-01-11 00:31:33 Error: AddGoods System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.AddGoods(ItemInfo item)

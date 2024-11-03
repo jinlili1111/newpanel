@@ -1,0 +1,256 @@
+2020-01-16 05:26:14 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:14 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:14 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:14 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:19 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:26:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:07 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:07 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:07 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:07 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:23 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:39 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:40 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:48 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:48 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:48 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:48 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:27:48 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:03 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:03 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:03 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:03 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:03 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:28:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:30:45 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:30:45 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:30:45 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:30:45 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:30:45 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:32:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:33:31 Error: GetAllShopItem System.IndexOutOfRangeException: LimitGrade
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.ProduceBussiness.InitShopItemInfo(SqlDataReader reader)
+   在 Tank.Data.ProduceBussiness.GetAllShopItem()
+2020-01-16 05:42:16 Error: GetAllShopGoodsShowList System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllShopGoodsShowList()
+2020-01-16 05:42:27 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:42:27 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:25 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:25 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:28 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:28 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:31 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:31 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:34 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:43:34 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:12 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:22 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:22 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:22 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:22 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:22 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:45:26 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:33 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:33 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:50 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:50 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:53 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:46:53 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:47:41 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:47:41 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:47:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:47:51 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:53:56 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 05:53:56 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 06:00:58 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 06:00:58 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 06:15:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-01-16 06:15:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()

@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "您当前尚未登录管理面板";
+}
+<div class="block">
+    <!-- Warning Alert -->
+    <div class="alert alert-warning">
+        <p>请登录管理面板后使用此功能.</p>
+        <p>如果您已经登录过了,请刷新页面,如果您还未登录,请登录一下.</p>
+        <p>@Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-sm btn-success" })</p>
+    </div>
+    <!-- END Warning Alert -->
+</div>

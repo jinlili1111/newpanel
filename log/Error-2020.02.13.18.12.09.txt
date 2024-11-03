@@ -1,0 +1,6 @@
+2020-02-13 18:12:09 Error: GetAllShopItem System.IndexOutOfRangeException: LimitGrade
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.ProduceBussiness.InitShopItemInfo(SqlDataReader reader)
+   在 Tank.Data.ProduceBussiness.GetAllShopItem()

@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "登录";
+}
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h4 class="modal-title">@ViewBag.Title</h4>
+</div>
+<div class="modal-body">
+    <!-- Warning Alert -->
+    <div class="alert alert-warning">
+        <p>请登录管理面板后使用此功能.</p>
+        <p>如果您已经登录过了,请刷新页面,如果您还未登录,请登录一下.</p>        
+    </div>
+    <!-- END Warning Alert -->
+    <div class="form-actions">
+        <div class="text-right">
+            @Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-sm btn-success" })
+            <button type="button" class="btn btn-sm btn-success" data-dismiss="modal">Hũy</button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,328 @@
+﻿#other
+Service.Close:--- 服务未运行,或未创建频道 ---
+Views.Empty:<span class="text-warning">--- 没有数据 ---</span>
+Views.NoHaveUserOnline:<span class="text-warning">--- 没有玩家在线 ---</span>
+Views.Select.Server:<span class="text-warning">--- 请选择要显示数据的服务器 ---</span>
+Views.ErrorRequest:--- 数据错误!无法执行此命令 ---
+Views.LoadArea.Fail: 您请求的数据代码 {0} 不存在
+Views.LoadTable.Fail: {0} 您的数据请求失败!
+Model.Notice:通知
+Model.Ok:同意
+Model.CLose:关闭
+Model.Cancel:取消
+Model.Confirm:确认
+Model.Update:更新
+Model.Edit.Title:编辑
+Model.Add:添加
+Model.Add.Title.Active:添加新活动
+Model.PlaceHolder.Text:请输入数据
+Model.PlaceHolder.Date:请输入日期,例如: 18/08/2015 12:00:00 AM
+Model.PlaceHolder.Int:输入一个数字
+ViewImports.PetName: {0} {1}*
+BIGBUGGLE.TYPE.STRING:大喇叭
+
+Views.WaitLoading:<i class="fa fa-spinner fa-2x fa-spin"></i> 正在加载,请稍等...
+
+Controllers.DeleteConfirm:<p>您确定要删除<span class="text-info">{0}</span>吗?</p>
+Controllers.DeleteConfirm2:<p>你确定要删除吗?</p>
+Controllers.DeleteConfirm.OK:<p>删除<span class="text-info">{0} <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span>成功!</p>
+Controllers.DeleteConfirm.Fail:<p>删除<span class="text-info">{0}</span>失败!</p>
+Controllers.DeleteActiveNumber.OK:<p>删除活动激活码<span class="text-info"><i class="gi gi-chevron-right" style="font-size:8px"></i> {0}</span>成功!</p>
+
+Function.NotOpen:<span class="text-danger">此功能尚未打开.</span>
+Controllers.Update.OK2:<p>更新用于道具盒<span class="text-info"> {0} 的奖励 <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span>成功!</p>
+Controllers.Save.OK:<p>保存<span class="text-info">{0}</span>成功!</p>
+Controllers.Save.Empty:道具为空.
+
+Controllers.AddRecord.Fail:<p><span class="text-info">{0}</span> 记录已存在,操作失败!</p>
+Controllers.AddRecord.OK:<p>添加代码 <span class="text-info">{0} <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span>成功!</p>
+
+Controllers.RunSqlQuery.Fail:执行SQL脚本失败
+
+Controllers.Update.Fail:<p><span class="text-info">{0}</span> 更新不存在,操作失败!</p>
+Controllers.Update.OK:<p>更新代码 <span class="text-info">{0} <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span>成功!</p>
+
+Controllers.Array.Error:操作失败
+Controllers.Array.Detail:在战斗结束时,如果您获胜,玩家将有机会获得有价值的物品
+
+SystermSender.Msg:系统
+Game.Server.GameUtils.CommonBag.AnnexRemark:附
+Controllers.Session.TimeOut.Msg1:<span class="text-info">操作超时.</span>
+Controllers.Session.TimeOut.Msg2:<span class="text-info">操作超时. 原因:</span><span class="text-danger"> {0}</span>
+LoadData.Null:载入数据库失败
+
+ViewImports.Unset:重置失败.
+
+#Home
+ReloadData.Success: 重新加载<span class="text-danger"><strong> {0} </strong></span>成功!
+
+#Layout
+
+#Login
+Account.Login.Header:登录
+Account.Login.RegisterLink:立即注册
+Account.Login.ForgetPassword:忘记密码
+Account.Login.Text:请登录
+Account.Login.Passworld:密码
+Account.Login.Login:登录
+Account.Login.Remember:记住密码
+Account.Login.Social:使用您的帐户登录 {0}
+
+#Account
+AccountController.Login.Invaid:电子邮件或密码不正确 /
+Account.Register.Exit:邮件 {0} 被使用了。
+Account.Register.PasswordFail:密码无效,必须至少有5个字符,尤其是常用字符和数字.
+Account.Register.Capcha.Fail:验证码不正确,请注意空格.
+Account.Register.Capcha.TimeOut:验证码已过期,请输入新的验证码.
+
+#Manage
+Manage.ChangePassworld.WrongPass:您当前的密码不正确
+Manage.ChangePassworld.Error:修改密码无效,必须至少有5个字符,尤其是常用字符和数字.
+Manage.ChangePassworld.Success:修改密码成功!
+
+#Games
+Controllers.SendAwardToGame.Top.OK:<p>名称: <span class="text-info"><strong>{0}</strong></span><span class="text-danger">大区:<strong>{1}</strong></span>.</p><p></p><p>{2}</p>
+Controllers.SendAwardToGame.Top.Title:{0}
+ViewImports.TBuyType.Day1:{0} <em>天</em>
+ViewImports.TBuyType.Day2:<em>永久</em>
+ViewImports.TBuyType.Valid: <em>数量: </em> {0}
+
+ViewImports.TPayment4:<em class="text-muted" data-toggle="tooltip" title="功勋">Cumulativa</em>
+ViewImports.TPayment6:<em class="text-muted" data-toggle="tooltip" title="Fuck You">Cumulativa</em>
+ViewImports.TPayment7:<em class="text-muted" data-toggle="tooltip" title="世界boss积分">Cumulativa</em>
+ViewImports.TPayment8:<em class="text-muted" data-toggle="tooltip" title="宠物萌化点">Cumulativa</em>
+
+
+SendSeletedItems.LeftPanel:<legend><i class="fa fa-angle-right"></i> 选择服务器和昵称</legend>
+SendSeletedItems.RightPanel:<legend><i class="fa fa-angle-right"></i> 更改 <strong class="text-warning">{0}</strong></legend>
+SendSeletedItems.Select.Item:选择查询道具
+SendSeletedItems.ListItems:<legend><i class="fa fa-angle-right"></i> 列表中的道具 <span style="font-size:11px"> 单击更改</span></legend>
+GameController.SendSeletedItem.Completed:<p class="text-success">将道具发送给玩家:<strong class="text-warning">{0}</strong>成功!<p>
+GameController.SendSeletedItem.Fail:<p class="text-danger">找不到玩家：{0},发送道具失败!</p>
+GameController.SendSeletedItem.SendFail:发送道具失败!
+
+#Users
+Users.KickOrForbid.Msg:踢出/封号失败!
+Users.KickOrForbid.Fail:请选择玩家!
+Users.KickOrForbid.Msg1:<p>踢出玩家：<span class="text-info">{0}</span> 成功!</p>
+Users.KickOrForbid.Msg2:<p>玩家：<span class="text-info">{0}</span><span class="text-warning"> 已离线.</span> 无法踢出!</p>
+Users.KickOrForbid.Msg3:<p>封禁玩家：<span class="text-warning">{0}</span> 成功!</p>
+Users.KickOrForbid.Msg4:<p>解封玩家：<span class="text-warning">{0}</span> 成功!</p>
+
+
+Users.UpdateEditable.Fail:更新玩家：{0} 的 {1} <span class="text-warning">失败!</span>
+Users.UpdateEditable.Old:<span class="text-muted">{0} 数量 <strong>{1}</span>
+Users.UpdateEditable.Old.Fail:<span class="text-muted">{0} 更新 <strong>{1}</strong>, 失败!</span>
+Users.UpdateEditable.Success:<p>更新 <span class="text-info">{0}</span> 数量<span class="text-warning">{1}</span> 玩家： <span class="text-danger">{2}</span> 成功!</p>
+User.UpdateUsersData.Success1:更新玩家数据 <span class="text-danger">{0}</span>, 成功!
+User.UpdateUsersData.Success2:更新 <span class="text-danger">{0}-{1}</span>, 成功!
+
+Controllers.UsersPopover.Title:{0} <i class="gi gi-chevron-right" style="font-size:8px"></i> <span class="text-warning">{1}</span>
+Controllers.SendAwardToGame.Email.Title:恭喜您获得了 {0} 的第 {1} 名奖励.
+Controllers.SendAwardToGame.Email.Sender:羁绊弹弹堂
+Controllers.SendAwardToGame.Fail:此操作尚未打开
+Controllers.SendAwardToGame.Email.Online:{0}在线玩家
+GameController.SendSeletedItem.Title:G.M奖励
+
+Controllers.Active.AwardContent:奖励
+Controllers.Active.Male:(男性)
+Controllers.Active.Female:(女性)
+#Add Items
+Request.topaward:奖励
+Request.dropitems:掉落条件
+Request.shopsale:商城
+Request.shopsale.Name:名称
+Request.shopshow:商城显示
+Request.active:活动
+
+#TemplateAllList Model 
+TemplateAllListModelView.LoadFail:加载失败<span class="text-danger"><strong> {0}</strong></span>, 成功!
+TemplateAllListModelView.NotFound:找不到该商品/道具<span class="text-danger"><strong> {0}</strong></span>
+
+#Drop 
+Controllers.CreateDropCondiction.Ok:<li class="text-success"><i class="fa fa-check fa-fw"></i> {0}</li>
+Controllers.CreateDropCondiction.Fail:<li class="text-danger"><i class="fa fa-times fa-fw"></i> {0}</li>
+
+Controllers.CreateDropCondiction.Para2.Exist:<li class="text-danger"><i class="fa fa-times fa-fw"></i> Infecção Para1: <em class="text-success">{1}</em> e Para2: <em class="text-success">{2}</em> já em DropId: <em class="text-success">{0}</em></li>
+Controllers.CreateDropCondiction.CheckFail1:<p><span class="text-info">扫描检测到重复的dropId,详细信息:</span></p><ul class="fa-ul list-li-push">{0}</ul><p class="text-success">提示:填写<span class="text-warning"><strong> DropId: <em>{1}</em></strong></span> 忽略重复的Id</p>
+Controllers.CreateDropCondiction.CheckFail2:<p><span class="text-info">检查para1后,para2检测到重复,详细信息:</span></p><ul class="fa-ul list-li-push">{0}</ul>
+Controllers.CreateDropCondiction.Success:<p><span class="text-info">DropConditon在数据库中更多结果:</span></p><ul class="fa-ul list-li-push">{0}</ul>
+Controllers.CreateDropCondiction.Name2:数十显示合格率仅降至 {0}
+Controllers.CreateDropCondiction.Name3:项目显示较低的通过率 {0}
+Controllers.CreateDropCondiction.Name4:显示 {0} 的项目必须具有非常低的丢弃率
+Controllers.CreateDropCondiction.Detail1:越过边界 {0} 成功的球员有两次机会获得有价值的物品,包括中,低和非常低
+Controllers.CreateDropCondiction.Detail2:当玩家完成卡片发布系统时,显示 "{0}" 的随机led项目
+
+#Shop show list
+Controllers.ShopGame.NoticeBegin:<p class="text-info"><strong>Adicione ao carrinho resultados do portfólio:</strong></p><ul class="fa-ul list-li-push">
+Controllers.ShopGame.NoticeEnd:</ul><div class="text-warning text-right"><strong>Notas:</strong> <span class="text-success"><i class="fa fa-check fa-fw"></i></span><em> mais 成功</em>; <span class="text-danger"><i class="fa fa-times fa-fw"></i></span> <em>item de duplicados</em>.</div>
+Controllers.ShopGame.Ok:<li class="text-success"><i class="fa fa-check fa-fw"></i> {0}</li>
+Controllers.ShopGame.Fail:<li class="text-danger"><i class="fa fa-times fa-fw"></i> {0}</li>
+ShopGame.ShopType.MONEY_M_HOTSALE:热卖
+ShopGame.ShopType.MONEY_F_HOTSALE:热卖
+ShopGame.ShopType.MONEY_M_RECOMMEND:推荐
+ShopGame.ShopType.MONEY_F_RECOMMEND:推荐
+ShopGame.ShopType.MONEY_M_CONCESSIONS:促销
+ShopGame.ShopType.MONEY_F_CONCESSIONS:促销
+ShopGame.ShopType.MONEY_M_WEAPON:武器
+ShopGame.ShopType.MONEY_F_WEAPON:武器
+ShopGame.ShopType.MONEY_M_CLOTH:衣服
+ShopGame.ShopType.MONEY_F_CLOTH:衣服
+ShopGame.ShopType.MONEY_M_HAT:帽子
+ShopGame.ShopType.MONEY_F_HAT:帽子
+ShopGame.ShopType.MONEY_M_GLASS:眼镜
+ShopGame.ShopType.MONEY_F_GLASS:眼镜
+ShopGame.ShopType.MONEY_M_SHIPIN:首饰
+ShopGame.ShopType.MONEY_F_SHIPIN:首饰
+ShopGame.ShopType.MONEY_M_HAIR:头发
+ShopGame.ShopType.MONEY_F_HAIR:头发
+ShopGame.ShopType.MONEY_M_EYES:眼睛
+ShopGame.ShopType.MONEY_F_EYES:眼睛
+ShopGame.ShopType.MONEY_M_LIANSHI:脸饰
+ShopGame.ShopType.MONEY_F_LIANSHI:脸饰
+ShopGame.ShopType.MONEY_M_SUIT:套装
+ShopGame.ShopType.MONEY_F_SUIT:套装
+ShopGame.ShopType.MONEY_M_WING:翅膀
+ShopGame.ShopType.MONEY_F_WING:翅膀
+ShopGame.ShopType.MONEY_M_FUNCTIONPROP:功能
+ShopGame.ShopType.MONEY_F_FUNCTIONPROP:功能
+ShopGame.ShopType.MONEY_M_PAOPAO:泡泡
+ShopGame.ShopType.MONEY_F_PAOPAO:泡泡
+ShopGame.ShopType.MONEY_HOT_GOODS:热卖商品
+ShopGame.ShopType.MONEY_FLOWER:弹弹花香
+ShopGame.ShopType.MONEY_DESSERT:评论
+ShopGame.ShopType.MONEY_TOYS:宠物
+ShopGame.ShopType.MONEY_RARE:稀有
+ShopGame.ShopType.MONEY_FESTIVAL:节日
+ShopGame.ShopType.MONEY_WEDDING:婚礼
+ShopGame.ShopType.DDTMONEY_M_HOTSALE:热卖
+ShopGame.ShopType.DDTMONEY_F_HOTSALE:热卖
+ShopGame.ShopType.DDTMONEY_M_WEAPON:武器
+ShopGame.ShopType.DDTMONEY_F_WEAPON:武器
+ShopGame.ShopType.DDTMONEY_M_CLOTH:衣服
+ShopGame.ShopType.DDTMONEY_F_CLOTH:衣服
+ShopGame.ShopType.DDTMONEY_M_HAT:帽子
+ShopGame.ShopType.DDTMONEY_F_HAT:帽子
+ShopGame.ShopType.DDTMONEY_M_GLASS:眼镜
+ShopGame.ShopType.DDTMONEY_F_GLASS:眼镜
+ShopGame.ShopType.DDTMONEY_M_SHIPIN:首饰
+ShopGame.ShopType.DDTMONEY_F_SHIPIN:首饰
+ShopGame.ShopType.DDTMONEY_M_HAIR:头发
+ShopGame.ShopType.DDTMONEY_F_HAIR:头发
+ShopGame.ShopType.DDTMONEY_M_EYES:眼睛
+ShopGame.ShopType.DDTMONEY_F_EYES:眼睛
+ShopGame.ShopType.DDTMONEY_M_LIANSHI:脸饰
+ShopGame.ShopType.DDTMONEY_F_LIANSHI:脸饰
+ShopGame.ShopType.DDTMONEY_M_SUIT:套装
+ShopGame.ShopType.DDTMONEY_F_SUIT:套装
+ShopGame.ShopType.DDTMONEY_M_WING:翅膀
+ShopGame.ShopType.DDTMONEY_F_WING:翅膀
+ShopGame.ShopType.DDTMONEY_M_FUNCTIONPROP:功能
+ShopGame.ShopType.DDTMONEY_F_FUNCTIONPROP:功能
+ShopGame.ShopType.DDTMONEY_M_PAOPAO:泡泡
+ShopGame.ShopType.DDTMONEY_F_PAOPAO:泡泡
+ShopGame.ShopType.GUILD_SHOP_1:礼品商店 1
+ShopGame.ShopType.GUILD_SHOP_2:礼品商店 2
+ShopGame.ShopType.GUILD_SHOP_3:礼品商店 3
+ShopGame.ShopType.GUILD_SHOP_4:礼品商店 4
+ShopGame.ShopType.GUILD_SHOP_5:礼品商店 5
+ShopGame.ShopType.M_POPULARITY_RANKING:人气排名
+ShopGame.ShopType.F_POPULARITY_RANKING:人气排名
+ShopGame.ShopType.LITTLEGAME_AWARD_TYPE:小游戏
+ShopGame.ShopType.FARM_SEED_TYPE:农场种子
+ShopGame.ShopType.FARM_MANURE_TYPE:农场肥料
+ShopGame.ShopType.ROOM_PROP:道具
+ShopGame.ShopType.WORLDBOSS_AWARD_TYPE:世界BS奖励
+ShopGame.ShopType.TRANSNATIONAL_AWARD_TYPE:跨国商品
+ShopGame.ShopType.FARM_PETEGG_TYPE:宠物蛋
+ShopGame.ShopType.LEAGUE_SHOP_TYPE:联赛商品
+ShopGame.ShopType.94:迷宫
+ShopGame.ShopType.DRAGON_BOAT_TYPE:龙舟
+ShopGame.ShopType.96:商店类型 96
+ShopGame.ShopType.97:商店类型 97
+ShopGame.ShopType.98:金字塔
+ShopGame.ShopType.99:寻宝
+ShopGame.ShopType.KING_STATUE_SHOP:弹王雕像商品
+ShopGame.ShopType.101:魔石
+ShopGame.ShopType.102:商店类型102
+ShopGame.ShopType.HOME_ADORN_SHOP: 家园装饰
+ShopGame.ShopType.FISH_SHOP:钓鱼商品
+ShopGame.ShopType.SALE_SHOP:打折商品
+ShopGame.ShopType.REGRESS_SHOP:老玩家商品
+ShopGame.ShopType.SHOP_PAST_PRICE:按价格购买
+ShopGame.ShopType.TREASURELOST_SHOP:寻宝商城
+ShopGame.ShopType.1000:商店类型 1000
+ShopGame.ShopType.111:迷宫的背景区域
+
+#Service Controller
+ServiceController.SendReloadToService.Fail:命令系统尚未打开，执行 <em class="text-info">重新加载&{0}</em> 失败.
+ServiceController.SendReloadToService.Ok:运行命令 <em class="text-info">重新加载&{0}</em> 成功.
+Model.Add.Title.AreaConfig:添加新服务器
+Model.Add.Title.Server:添加新频道
+Model.SendSystermNotice:发送通知
+Controllers.AddChannel.Fail:ID idêntico: <em class="text-info">{0}</em> ou Porto: <em class="text-info">{1}</em>, Por favor verifique e tente novamente.
+ServiceController.SendShutdown.Ok:<p class="text-success">Enviar comandos para o encerramento do servidor Identificação_da_Zona <em class="text-info">{0}</em> 成功.</p>
+ServiceController.SendShutdown.Fail:<p class="text-warning">Enviar comandos para o encerramento do servidor Identificação_da_Zona <em class="text-danger">{0}</em> falhou.</p>
+Controllers.SendSystermNotice.Fail:<p class="text-warning">Centro ainda não está habilitado. Envie uma mensagem para o servidor falhou.</p>
+Controllers.SendSystermNotice.OK:<p class="text-success">Enviar notificações <em class="text-info">"{0}"</em> para o servidor! </p>
+
+#XMl
+XMLController.Import.Empty:<p class="text-warning">Nenhum item está adequado para elaborar essas condições</p>
+XMLController.Import.Fail:<p class="text-danger">Código não encontrado <em class="text-info">{0}</em></p>
+XMLController.Import.Success1:<p class="text-success">导入<em class="text-info">{0}</em>个官服最新道具到数据库成功!</p>
+XMLController.Import.Success2:<p class="text-success">导入道具: <em class="text-info">{0}</em> 到数据库成功成功!</p>
+XMLController.RipResource.Success1:<p class="text-success">检查并下载 {0} 文件! <br/>被保存 <em class="text-info">{1}<em></p>
+XMLController.RipResource.Success2:<p class="text-success">下载文件 <em class="text-info">{0}</em>, 成功!</p>
+XMLController.RipResource.Fail:<p class="text-danger">无法在链接上找到文件 <em class="text-info">{0}</em>!</p>
+Model.RipResource:确定
+Model.RipResource.OtherUrl:选择其他来源
+XMLController.UnSupport:<p class="text-danger">文件 <em class="text-info">{0}</em> 尚不支持</p>
+XMLController.BuildResource.Success:<p class="text-success">完整的创建图片链接 {0} 道具,开始导入 ..
+XmlManager.Rip.Msg:<p class="text-danger">无法在链接上找到文件 <em class="text-info">{0}</em> </p>
+XmlManager.Rip.Exit:<p class="text-info">文件 <em class="text-info">{0}</em> 已经存在!</p>
+Model.RipResource.Progress:<p class="text-warning"><i class="fa fa-spinner fa-spin"></i> 正在处理中,请稍候...</p>
+XMLController.SaveToXml.Fail:<p class="text-danger">保存文件. <em class="text-info">{0}</em>, falhou!</p>
+XMLController.SaveToXml.Success:{0}</br>{1}</br>存储在: {2}
+
+#2015.12.26
+CartControl.AddToCart.Fail:Adicionar itens ao carrinho de falhou!
+CartControl.AddToCart.Success:Adicione o item para o carrinho com 成功!
+Controllers.DeleteAllConfirm.Cart:是否清空整个购物车？
+Controllers.DeleteAllConfirm.OK:Exclua item inteiro bem sucedido!
+ViewBag.Title.ItemTemplate: Detalhes
+Request.boxitem:道具
+Controllers.DeleteConfirm3:是否确定删除此物品 <strong><em class="text-info">{0}</em>?</strong>
+Controllers.DeleteConfirm4:是否确定删除以下项目?
+Controllers.DeleteConfirmDetail:<span class="text-info">道具</span>.
+Controllers.DeleteConfirmNote:<span class="text-success">确认需要删除吗? </span>
+DeleteData.ShopGoodsBox.Fail:Caixa contém o código <strong><em class="text-info">{0}</em></strong> 不存在
+
+validate.isNumber:Por favor, indique um número
+View.StringEmpty:Informações não atualizadas
+View.StringEmpty2:<em class="text-muted">null</em>
+Views.LoadTable.Fail2:Itens especiais não podem editar
+Server.Combine.Title1:Lista da tabela serão incluída
+Server.Combine.Buttom.Title:Adicionar uma nova tabela
+Server.Combine.Buttom.Multi.Delete.Title:Excluir a tabela selecionada
+Server.Combine.Buttom.Process:Introdução ao combinar
+CombineTableMgr.Step1:<p class="text-success">Step1: Obter o máximo de identidade da tabela <strong><em class="text-info">{0}</em></strong></p>
+CombineTableMgr.Step2:<p class="text-success">Step2: Obter o máximo de identidade da tabela <strong><em class="text-info">{0}</em></strong></p>
+CombineTableMgr.Step3:<p class="text-success">Step3: Ler, criar consulta SQL para <strong><em class="text-info">{0}</em></strong> e inserir <strong><em class="text-primary">{1}</em></strong></p>
+CombineTableMgr.Step4:<p class="text-success">Step4: Executa a consulta sql na etapa 3 do <strong><em class="text-info">{0}</em></strong></p>
+
+Model.Add.Title.BattleBonus:Adicionar nova batalha de Bonus
+Model.Add.Required:Por favor insira o ID
+Model.Add.Remote:Você digitou o ID  que já foi usado
+Controllers.DeleteConfirm5:Você quer excluir as tarefas abaixo?
+Views.BaseDetail:任务基础
+Views.Quest.Conditions:任务完成条件
+Views.Quest.Goods:任务奖励
+Views.Edit.Record:编辑
+Views.Delete.Record:删除
+Views.Quest.Award.Empty: <p class="text-center alert alert-warning">此任务未设置奖励.</p>
+Request.questitems:搜索
+Controllers.DeleteConfirm6:你真的确定想删除任务完成条件 <strong><em class="text-info">{0}</em></strong> 吗?
+Controllers.DeleteConfirm7:你真的确定想删除奖励<strong><em class="text-info">{0}</em></strong> 吗?
+Model.Add.Title.QuestCondition:添加新条件 <strong><em class="text-danger">{0}</em></strong>.
+Controllers.Update.QuestAward.OK:<p>Atualizar itens <span class="text-info">{0} para <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span> 成功</p>
+Controllers.Update.QuestCondition.OK:<p>Atualizado condições <span class="text-info">{0} para <i class="gi gi-chevron-right" style="font-size:8px"></i> {1}</span> 成功</p>

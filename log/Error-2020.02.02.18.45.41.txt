@@ -1,0 +1,2 @@
+2020-02-02 18:45:41 Error: Init System.InvalidCastException: 指定的转换无效。
+   在 Tank.Data.BaseBussiness.GetPage(String queryStr, String queryWhere, Int32 pageCurrent, Int32 pageSize, String fdShow, String fdOreder, String fdKey, Int32& total)

@@ -1,0 +1,20 @@
+2020-02-06 01:22:03 Error: Init System.InvalidCastException: 指定的转换无效。
+   在 Tank.Data.BaseBussiness.GetPage(String queryStr, String queryWhere, Int32 pageCurrent, Int32 pageSize, String fdShow, String fdOreder, String fdKey, Int32& total)
+2020-02-06 01:22:04 Error: Init System.InvalidCastException: 指定的转换无效。
+   在 Tank.Data.BaseBussiness.GetPage(String queryStr, String queryWhere, Int32 pageCurrent, Int32 pageSize, String fdShow, String fdOreder, String fdKey, Int32& total)
+2020-02-06 01:24:01 Error: GetSingleUsersExtra System.IndexOutOfRangeException: ID
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.PlayerBussiness.InitUsersExtraInfo(SqlDataReader reader)
+   在 Tank.Data.PlayerBussiness.GetSigleUsersExtra(String swhere)
+2020-02-06 01:24:01 Error: GetSingleActiveSystem System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.GetSigleActiveSystem(String where)
+2020-02-06 01:24:20 Error: GetSingleUsersExtra System.IndexOutOfRangeException: ID
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.PlayerBussiness.InitUsersExtraInfo(SqlDataReader reader)
+   在 Tank.Data.PlayerBussiness.GetSigleUsersExtra(String swhere)
+2020-02-06 01:24:20 Error: GetSingleActiveSystem System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.PlayerBussiness.GetSigleActiveSystem(String where)

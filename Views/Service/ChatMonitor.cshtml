@@ -1,0 +1,150 @@
+﻿@model List<SqlDataProvider.Data.ChatInfo>
+@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "Service Chat";
+    int onlineUser = 0;
+}
+
+@if (Model.Any())
+{
+    <div class="row">
+        <div class="col-md-4">
+                        
+                <!-- Interactive Block -->
+                <div class="block">
+                    <!-- Interactive Title -->
+                    <div class="block-title">
+                        <h2><strong>聊天</strong> 系统</h2>
+                    </div>
+                    <div class="block-content">
+                        <div class="chat-messages">
+                            <ul class="media-list media-feed media-feed-hover">
+                                <!-- Status Updated -->
+                                @foreach (var item in Model)
+                                {
+                                    if (item.Type == 0)
+                                    {
+                                        <li class="media">
+                                            <div class="media-body" style="color:#ff00dc">
+                                                <p class="push-bit">
+                                                    <span class="text-muted pull-right">
+                                                        <small>@item.ChatTime</small>
+                                                    </span>
+                                                    <strong> [系统]</strong>
+                                                </p>
+                                                <p>
+                                                    @item.Msg
+                                                </p>
+                                            </div>
+                                        </li>
+                                    }
+                                }
+                                <!-- END Status Updated -->
+                            </ul>
+                        </div>
+                    <!-- END Interactive Content -->
+                </div>
+                <!-- END Interactive Block -->                
+            </div>
+        </div>
+        <div class="col-md-8">
+            <!-- Interactive Block -->
+            <div class="block">
+                <!-- Interactive Title -->
+                <div class="block-title">
+                    <h2><strong>聊天</strong> 玩家</h2>
+                </div>
+                <div class="block-content">
+                    <div class="chat-messages">
+                        <ul class="media-list media-feed media-feed-hover">
+                            <!-- Status Updated -->
+                            @foreach (var item in Model)
+                            {
+                                string typeStr = "当前";
+                                string color = "";
+                                switch (item.Type)
+                                {
+                                    case 4:
+                                        typeStr = "跨区喇叭";
+                                        color = "text-danger";
+                                        break;
+                                    case 2:
+                                        typeStr = "小喇叭";
+                                        color = "text-warning";
+                                        break;
+                                    case 3:
+                                        string[] bugNames = StaticFunction.GetTranslation("BIGBUGGLE.TYPE.STRING").Split(',');
+                                        typeStr = bugNames[item.BigbugType];
+                                        color = "text-primary";
+                                        break;
+                                    case 103:
+                                        typeStr = "公会:" + item.ConsortiaName;
+                                        color = "text-success";
+                                        break;
+                                }
+                                if (item.Type != 0)
+                                {
+                                    <li class="media">
+                                        <div class="media-body @color">
+                                            <p class="push-bit">
+                                                <span class="text-muted pull-right">
+                                                    <small>@item.ChatTime</small>
+                                                </span>
+                                                <strong>  [@typeStr] <i class="fa fa-angle-left"></i>@Html.TAreaName(item.ZoneId)<i class="fa fa-angle-right"></i>  [@item.NickName]</strong>
+                                            </p>
+                                            <p>
+                                                @item.Msg
+                                                <span class="pull-right">
+                                                    <button data-link="@Html.Raw(Url.Action("ForbidPlayer", "Users", routeValues: new { id = item.UserID, zid = item.ZoneId, nick = item.NickName, type = 365 }))"
+                                                            class="btn btn-xs btn-default open-model">
+                                                        <i class="fa fa-times text-danger">封号1年</i>
+                                                    </button>
+                                                    <button data-link="@Html.Raw(Url.Action("KickPlayer", "Users", routeValues: new { id = item.UserID, zid = item.ZoneId, nick = item.NickName }))"
+                                                            class="btn btn-xs btn-default open-model">
+                                                        <i class="fa fa-share-square-o text-warning">踢出游戏</i>
+                                                    </button>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </li>
+
+                                    onlineUser++;
+                                }
+                            }
+                           
+                            <!-- END Status Updated -->
+                        </ul>
+                        @if (onlineUser == 0)
+                        {
+                            <div class="text-center">
+                                @Html.Raw(StaticFunction.GetTranslation("Views.NoHaveUserOnline"))
+                            </div>
+                        }
+                    </div>
+                   
+                </div>
+                <!-- END Interactive Content -->
+            </div>
+            <!-- END Interactive Block -->           
+        </div>
+    </div>
+
+}
+else
+{
+    <div class="text-center">
+        @Html.Raw(StaticFunction.GetTranslation("Views.NoHaveUserOnline"))
+    </div>
+}
+
+@section Scripts{
+    <script>
+        $(function () {
+            /*add some code here!*/
+            ModelGeneral.initBtn();
+            $('.chat-messages').slimScroll({ height: 502, color: '#000', size: '5px', position: 'right', touchScrollStep: 100 });
+            startReresh();
+        });
+    </script>
+}
+

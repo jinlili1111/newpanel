@@ -1,0 +1,124 @@
+﻿@{
+    ViewBag.Title = "限时活动";
+}
+
+<!-- Blank Alternative Header -->
+<div class="content-header">
+    <div class="header-section">
+        <h1>
+            <i class="gi gi-gift"></i>@ViewBag.Title<br><small>随意修改限时活动</small>
+        </h1>
+    </div>
+</div>
+<ul class="breadcrumb breadcrumb-top">
+    <li>主页</li>
+    <li>游戏</li>
+    <li><a href="">@ViewBag.Title</a></li>
+</ul>
+<!-- END Blank Alternative Header -->
+<!-- Blank Alternative Content -->
+<div class="block block-alt-noborder">
+    <div class="sub-header">
+        <div class="row">
+            <div class="col-md-4">
+                <form action="./" method="post" id="frm-event-quick-search" onsubmit="return false;">
+                    <div class="input-group">
+                        <input type="text" id="event-quick-search" name="key" class="form-control" placeholder="搜索...">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4">
+                <select id="event-enddate-chosen" name="event-enddate-chosen" class="select-chosen" data-placeholder="Escolher..">
+                    <option value="0">全部活动</option>
+                    <option value="1">未过期的活动</option>
+                    <option value="2">已过期的活动</option>
+                </select>
+            </div>            
+            <div class="col-md-4">
+                <a href="@Html.Raw(Url.Action("SendReloadToService", "Service", new { cmd = "active" }))" class="btn btn-sm btn-success" id="btn-schema-xml">更新数据</a>              
+            </div>
+        </div>
+    </div>
+    <!-- HTML -->
+
+    <div class="row">
+        <div class="col-md-4" style="border-right:1px dotted gray">
+            <p class="text-warning" style="font-size:18px;">
+                <i class="gi gi-log_in"></i><small>限时活动列表</small>
+            </p>       
+            <div id="event-list">
+                <div class="text-center text-warning">
+                    <p>@Html.Raw(StaticFunction.GetTranslation("Views.WaitLoading"))</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <p class="text-warning" style="font-size:18px">
+                <i class="gi gi-log_out"></i><small> 奖励列表</small> <strong><span id="event-header" class="text-danger">..</span></strong>
+                <a href="@Html.Raw(Url.Action("AddItemsModel","Games", new { type = "active" }))" class="btn btn-alt btn-sm btn-default pull-right" data-dialog="-1"
+                   id="btn-add-event-award">
+                    <i class="gi gi-circle_plus text-primary"></i> 更多新奖励
+                </a>
+            </p>  
+            <div id="event-award-list">
+                <div class="text-center text-warning">
+                    <p>@Html.Raw(StaticFunction.GetTranslation("Views.WaitLoading"))</p>
+                </div>
+            </div>           
+        </div>
+    </div>
+    
+    <!-- END HTML -->
+</div>
+<!-- END Blank Alternative Content -->
+
+@section Scripts {
+ <script>
+     $(function () {
+         /*add some code here!*/
+         loadEventsList();
+         GMApp.initSchema("#btn-schema-xml");
+         $('#btn-add-event').bind('click', function (e) {
+             var _url = $(this).attr("href")
+             GMApp.Dialog(_url, e, null, 'large3');
+             return false;
+         });
+
+         $('#btn-add-event-award').bind('click', function (e) {
+             var _id = $(this).attr("data-dialog");
+             var _url = $(this).attr("href") + '&name=' + $("#event-header").text();
+             GMApp.Dialog(_url, e, 'tid=' + _id, 'large');
+             return false;
+         });
+
+         $("#event-enddate-chosen").change(function (e) {
+             var cid = $(this).val();
+             GMApp.GetJson('#event-list', '@Html.Raw(Url.Action("EventList", "Games"))?cid=' + cid);
+         });
+         //live search
+         $("#event-quick-search").keyup(function (e) {
+             e.preventDefault();
+             var loadurl = '@Html.Raw(Url.Action("EventList", "Games"))';
+             $.ajax({
+                 url: loadurl,
+                 type: 'POST',
+                 data: $('#frm-event-quick-search').serialize(),
+                 success: function (data) {
+                     $('#event-list').html(data.Html);
+                 },
+                 error: function (xhr, textStatus, errorThrown) {
+                     $('#event-list').html(getError(xhr.status, xhr.statusText));
+                 }
+             });
+         });
+         //END live search     
+     });
+     function loadEventsList() {
+         var _val = $("#event-enddate-chosen option:selected").val();
+         GMApp.GetJson('#event-list', '@Html.Raw(Url.Action("EventList","Games"))?cid=' + _val);
+     }
+ </script>
+}

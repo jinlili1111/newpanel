@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "访问被拒绝!";
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+}
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h4 class="modal-title">@ViewBag.Title</h4>
+</div>
+<div class="modal-body">
+    <!-- Warning Alert -->
+    <div class="alert alert-warning">
+        <p>由于访问限制,您无法访问此页面!联系站点管理员LIayuan了解详细信息.</p>
+    </div>
+    <!-- END Warning Alert -->
+    <div class="form-actions">
+        <div class="text-right">
+            @Html.ActionLink("登出", "LogOff", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-sm btn-success" })
+            <button type="button" class="btn btn-sm btn-success" data-dismiss="modal">Cancelar</button>
+        </div>
+    </div>
+</div>

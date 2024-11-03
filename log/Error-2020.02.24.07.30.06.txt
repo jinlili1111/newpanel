@@ -1,0 +1,102 @@
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:06 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:30:08 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:35:45 Error: GetAllShopGoodsShowList System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllShopGoodsShowList()
+2020-02-24 07:36:05 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:07 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:09 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:22 Error: UpdateQuest: System.ArgumentNullException: SqlParameterCollection 只接受非空的 SqlParameter 类型对象。
+参数名: value
+   在 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(SqlParameter value)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters, String& msgError)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters)
+   在 Tank.Data.ProduceBussiness.UpdateQuest(QuestInfo item)
+2020-02-24 07:36:24 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:24 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:24 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:24 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:44 Error: UpdateQuest: System.ArgumentNullException: SqlParameterCollection 只接受非空的 SqlParameter 类型对象。
+参数名: value
+   在 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(SqlParameter value)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters, String& msgError)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters)
+   在 Tank.Data.ProduceBussiness.UpdateQuest(QuestInfo item)
+2020-02-24 07:36:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:36:44 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:02 Error: UpdateQuest: System.ArgumentNullException: SqlParameterCollection 只接受非空的 SqlParameter 类型对象。
+参数名: value
+   在 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(SqlParameter value)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters, String& msgError)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters)
+   在 Tank.Data.ProduceBussiness.UpdateQuest(QuestInfo item)
+2020-02-24 07:37:02 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:02 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:02 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:02 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:11 Error: UpdateQuest: System.ArgumentNullException: SqlParameterCollection 只接受非空的 SqlParameter 类型对象。
+参数名: value
+   在 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   在 System.Data.SqlClient.SqlParameterCollection.Add(SqlParameter value)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters, String& msgError)
+   在 SqlDataProvider.BaseClass.Sql_DbObject.Exesqlcomm(String Sqlcomm, SqlParameter[] SqlParameters)
+   在 Tank.Data.ProduceBussiness.UpdateQuest(QuestInfo item)
+2020-02-24 07:37:11 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:11 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:11 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()
+2020-02-24 07:37:11 Error: GetAllRuneTemplate System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllRuneTemplate()

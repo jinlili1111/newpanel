@@ -1,0 +1,162 @@
+﻿@model SqlDataProvider.Data.ItemInfo
+@{
+    Layout = null;
+    var item = Model;
+    string prop = string.Empty;
+    string addBlood = string.Empty;
+    if (item.Template != null)
+    {
+        switch (item.Template.CategoryID)
+        {
+            case 1:
+            case 5:
+                prop = "护甲";
+                break;
+            case 27:
+            case 7:
+                prop = "伤害";
+                break;
+            case 17:
+            case 31:
+                if (item.Template.Property3 == 31)
+                {
+                    prop = "减伤";
+                }
+                else
+                {
+                    prop = "恢复";
+                }
+                break;
+        }
+        if (item.Template.CategoryID == 14)
+        {
+            addBlood = item.Template.Property1 + "%";
+        }
+    }
+}
+
+   @if (item == null)
+   {
+    <div class="text-center">
+        @Html.Raw(StaticFunction.GetTranslation("Views.Empty"))
+    </div>
+   }
+   else
+   {
+    <table class="table table-borderless table-striped table-vcenter">
+        <tbody> 
+             @if (item.StrengthenLevel > 0)
+             {
+                <tr>
+                    <td class="text-right"><strong>强化</strong></td>
+                    <td style="width:155px">
+                        <span class="text-danger"><strong>@item.StrengthenLevel</strong></span>
+                    </td>
+                </tr>
+             }
+            @if (item.Template != null && !string.IsNullOrEmpty(prop))
+            {
+                <tr>
+                    <td class="text-right"><strong>@prop</strong></td>
+                    <td class="text-success">@item.Template.Property7 (+@StaticFunction.getHertAddition(item.Template.Property7, item.StrengthenLevel))</td>
+                </tr>
+            }
+            @if (item.IsGold)
+            {
+                <tr>
+                    <td class="text-right"><strong>铸金</strong></td>
+                    <td>
+						@if (item.goldValidDate == 0)
+						{
+							<span class="text-success">铸金永久有效</span>
+						}
+						else
+						{
+							<span class="text-success">铸金有效期: @item.goldValidDate 天</span>
+						}
+					</td>
+                </tr>
+            }
+             @if (item.Template != null && item.Template.NeedSex > 0)
+             {
+                <tr>
+                    <td class="text-right"><strong>性别</strong></td>
+                    <td>
+					@switch (item.Template.NeedSex)
+					{
+						case 0:
+							<span class="text-muted">无性别</span>
+							break;
+						case 1:
+							<span class="text-muted">男</span>
+							break;
+						case 2:
+							<span class="text-muted">女</span>
+							break;
+					}
+					</td>
+                </tr>
+             }
+            <tr>
+                <td class="text-right"><strong>品质</strong></td>
+                <td>
+				@switch (item.Template.Quality)
+				{
+                    case 1:
+                        <span class="text-muted">粗糙</span>
+                        break;
+                    case 2:
+                        <span style="color:#006600">普通</span>
+                        break;
+                    case 3:
+                        <span style="color:#0000FF">优秀</span>
+                        break;
+                    case 4:
+                        <span style="color:#990099">精良</span>
+                        break;
+                    case 5:
+                        <span style="color:#FF9900">卓越</span>
+                        break;
+                    case 6:
+                        <span style="color:#FF33FF">传说</span>
+                        break;
+                    case 7:
+                        <span style="color:#33CCCC">神器</span>
+                        break;
+                }
+				</td>
+            </tr>
+            @if (!string.IsNullOrEmpty(addBlood))
+            {
+                <tr>
+                    <td class="text-right"><strong>血量</strong></td>
+                    <td class="text-success">@addBlood</td>
+                </tr>
+            }
+            <tr>
+                <td class="text-right"><strong>攻击</strong></td>
+                <td>@item.Attack</td>
+            </tr>
+            <tr>
+                <td class="text-right"><strong>防御</strong></td>
+                <td>@item.Defence</td>
+            </tr>
+            <tr>
+                <td class="text-right"><strong>敏捷</strong></td>
+                <td>@item.Agility</td>
+            </tr>
+            <tr>
+                <td class="text-right"><strong>幸运</strong></td>
+                <td>@item.Luck</td>
+            </tr>
+            <tr>
+                <td class="text-right"><strong>魔攻</strong></td>
+                <td>@item.MagicAttack</td>
+            </tr>
+            <tr>
+                <td class="text-right"><strong>魔防</strong></td>
+                <td>@item.MagicDefence</td>
+            </tr>            
+        </tbody>
+    </table>
+   }

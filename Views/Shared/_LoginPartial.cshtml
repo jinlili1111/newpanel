@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNet.Identity
+<!-- User Info -->
+    @if (Request.IsAuthenticated)
+    {
+        string content = User.Identity.GetUserName();
+        <div class="sidebar-section sidebar-user clearfix sidebar-nav-mini-hide">            
+            <div class="sidebar-user-avatar">
+                <a href="@Url.Action("Index","Home")">
+                    <img src="@Url.Action("ata.jpg","Backend")" alt="avatar">
+                </a>
+            </div>
+            <div class="sidebar-user-name">@Html.TUserNameFor(content)</div>
+            <div class="sidebar-user-links">
+                <a href="@Url.Action("Index","Manage")" data-toggle="tooltip" data-placement="bottom" title="账号管理"><i class="gi gi-user"></i></a>
+                <a href="@Url.Action("LogOff","Account")" data-toggle="tooltip" data-placement="bottom" title="退出"><i class="gi gi-exit"></i></a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="sidebar-section sidebar-themes clearfix sidebar-nav-mini-hide">
+            <div class="btn-group btn-group-justified btn-group-sm">
+                @Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-sm btn-success" })
+                @Html.ActionLink("注册", "Register", "Account", routeValues: null, htmlAttributes: new { id = "login-link", @class = "btn btn-alt btn-default" })
+            </div>
+        </div>
+    }
+<!-- END User Info -->    

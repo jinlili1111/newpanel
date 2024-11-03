@@ -1,0 +1,9 @@
+2019-12-10 20:35:48 Error: GetAllDailyLeagueRewardGroup System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllDailyLeagueRewardGroup()
+2019-12-10 20:35:48 Error: GetAllDailyLeagueRewardItem System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllDailyLeagueRewardItem()
+2019-12-10 20:35:48 Error: GetAllDailyLeagueRewardItem System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Tank.Data.ProduceBussiness.GetAllDailyLeagueRewardItem()
+2019-12-10 20:35:49 Error: GetAllMap System.InvalidCastException: 指定的转换无效。
+   在 Tank.Data.ProduceBussiness.InitMapInfo(SqlDataReader reader)
+   在 Tank.Data.ProduceBussiness.GetAllMap()

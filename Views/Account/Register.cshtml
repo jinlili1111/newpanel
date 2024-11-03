@@ -1,0 +1,199 @@
+﻿@model GM.Service.Models.RegisterViewModel
+@{
+    ViewBag.Title = "注册";
+}
+<!-- Header -->
+<div class="content-header">
+    <div class="header-section">
+        <h1>
+            <i class="fa fa-list-alt"></i>@ViewBag.Title<br><small>注册管理员面板账号后,请联系LIayuan添加管理权限,否则无法正常使用. @ViewBag.Message</small>
+        </h1>
+    </div>
+</div>
+
+<!-- END Header -->
+
+    <!-- Login Container -->
+    <div id="login-container" class="animation-fadeIn">
+        <!-- Login Title -->
+        <div class="login-title text-center">
+            <h1><i class="gi gi-flash"></i> <strong>史上最屌弹弹堂管理面板</strong>
+            <br>
+            <small><strong>注册</strong></small></h1>
+        </div>
+        <!-- END Login Title -->
+        <!-- Login Block -->
+        <div class="block push-bit">        
+            <!-- Register Form -->
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal form-borderless form-control-bordered", role = "form",  @id = "form-register" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.Partial("_Alerts")
+                <div class="form-group">
+                    <div class="col-xs-12">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="gi gi-envelope"></i></span>
+                            <input type="text" id="register-email" name="Email" class="form-control input-lg" placeholder="邮箱">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-12">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="gi gi-asterisk"></i></span>
+                            <input type="password" id="register-password" name="Password" class="form-control input-lg" placeholder="密码">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-12">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="gi gi-asterisk"></i></span>
+                            <input type="password" id="register-password-verify" name="ConfirmPassword" class="form-control input-lg" placeholder="确认密码">
+                        </div>
+                    </div>
+                </div>              
+                <div class="form-group">
+                    <div class="col-xs-12">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="gi gi-picture"></i></span>
+                            <input type="text" maxlength="8" name="Captcha" id="Captcha" class="form-control input-lg" placeholder="验证码,请注意空格">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-12 text-center">
+                      <a href="javascript:loadCaptcha()"><img id="img-captcha" />   <i class="hi hi-refresh" style="margin-left:15px; font-size:25px"></i></a>  
+                    </div>
+                </div>
+                <div class="form-group form-actions">
+                    <div class="col-xs-9">
+                        <a href="#modal-terms" data-toggle="modal" class="register-terms">确认同意管理组条款</a>
+                        <label class="switch switch-primary">
+                            <input type="checkbox" id="register-terms" name="RegisterTerms">
+                            <span></span>
+                        </label>
+                    </div>
+                    <div class="col-xs-3 text-right">
+                        <button type="submit" class="btn btn-sm btn-success"><i class="fa fa-plus"></i>注册</button>
+                    </div>
+                </div>   
+}
+            <!-- END Register Form -->
+        </div>
+        <!-- END Login Block -->        
+    </div>
+    <!-- END Login Container -->
+
+ <!-- Modal Terms -->
+<div id="modal-terms" class="modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">管理组条款</h4>
+            </div>
+            <div class="modal-body">
+                <h4>禁止的行为</h4>
+                <p>
+                    <ol>
+                        <li>利用互联网上的互联网和信息服务的提供和使用,用于以下目的:</li>
+                        <li>揭示法律规定的国家机密，军事，安全，经济，对外关系等秘密.</li>
+                        <li>提供虚假信息，诽谤，侮辱组织的声誉，个人的荣誉和尊严.</li>
+                        <li>广告，宣传，买卖禁止的商品和服务; 禁止禁止新闻，文学，艺术，出版物.</li>
+                        <li>非法阻碍，破坏或破坏国家域名服务器，互联网设备和信息设备系统; 妨碍在组织和个人的互联网上获取信息和使用法律服务.</li>
+                        <li>未经授权使用密码，组织，个人，私人信息，个人信息和Internet资源的加密密钥.</li>
+                        <li>锻造组织和个人，在网上散布虚假信息，虚假信息，损害组织和个人的合法权益.</li>
+                        <li>为组织和个人的域名创建未经授权的链接。 创建，安装，分发恶意软件，计算机病毒; 未经授权的入侵，劫持信息系统，在互联网上创建病毒工具.</li>
+                        <li>严禁分发，传播或鼓励任何活动干扰，破坏或渗透所提供产品或服务器的数据.</li>
+                        <li>对于未经授权的登录或发现未经授权的登录或对服务器系统造成损害，不得有任何行为.</li>
+                        <li>在与其他玩家交流时，您不会对其他玩家提出异议，骚扰，骚扰或缺乏文化行为。.</li>
+                        <li>绝对禁止冒犯，以任何方式嘲笑他人（嘲笑，批评，性别，种族等）。.</li>
+                        <li>严禁以组织形式的投注，赌博或与金钱，现金和实物相关的协议.</li>
+                    </ol>
+                </p>
+                <div class="form-actions">
+                    <div class="text-right">
+                        <button type="button" class="btn btn-sm btn-success" data-dismiss="modal">同意</button>
+                    </div>
+                </div>
+            </div>            
+        </div>        
+    </div>
+</div>
+<!-- END Modal Terms -->
+
+@section Scripts {
+    <script>
+        $(function () {
+            /* Register form - Initialize Validation */
+            $('#form-register').validate({
+                errorClass: 'help-block animation-slideDown', // You can change the animation class for a different entrance animation - check animations page
+                errorElement: 'div',
+                errorPlacement: function (error, e) {
+                    e.parents('.form-group > div').append(error);
+                },
+                highlight: function (e) {
+                    $(e).closest('.form-group').removeClass('has-success has-error').addClass('has-error');
+                    $(e).closest('.help-block').remove();
+                },
+                success: function (e) {
+                    if (e.closest('.form-group').find('.help-block').length === 2) {
+                        e.closest('.help-block').remove();
+                    } else {
+                        e.closest('.form-group').removeClass('has-success has-error');
+                        e.closest('.help-block').remove();
+                    }
+                },
+                rules: {
+                    'Email': {
+                        required: true,
+                        email: true
+                    },
+                    'Password': {
+                        required: true,
+                        minlength: 5
+                    },
+                    'ConfirmPassword': {
+                        required: true,
+                        equalTo: '#register-password'
+                    },
+                    'RegisterTerms': {
+                        required: true
+                    },
+                    'Captcha': {
+                        required: true,
+                        remote: "@Url.Action("CaptchaValid", "Account")"
+                    }
+                },
+                messages: {
+                    'Email': '电子邮件无效',
+                    'Password': {
+                        required: '密码是必填项,输入您的密码',
+                        minlength: '密码必须至少为5位数'
+                    },
+                    'ConfirmPassword': {
+                        required: '确认密码是必填项,输入您的密码',
+                        minlength: '确认密码必须至少为5位数',
+                        equalTo: '密码与确认密码不匹配'
+                    },
+                    'RegisterTerms': {
+                        required: '必须同意管理组条款'
+                    },
+                    'Captcha': "验证码错误,请注意空格!"
+                }
+            });
+            loadCaptcha();
+        });
+        function loadCaptcha() {
+            $.ajax({
+                type: 'GET', url: '@Url.Action("GenerateCaptcha", "Account")',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                cache: false,
+                success: function (data) { $("#img-captcha").attr('src', data); }
+            });
+        }
+        
+    </script>
+}

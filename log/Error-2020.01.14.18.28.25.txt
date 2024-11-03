@@ -1,0 +1,6 @@
+2020-01-14 18:28:25 Error: GetAllQuestAward System.IndexOutOfRangeException: RewardItemCount1
+   在 System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   在 System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   在 System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   在 Tank.Data.ProduceBussiness.InitQuestAwardInfo(SqlDataReader reader)
+   在 Tank.Data.ProduceBussiness.GetAllQuestAward()

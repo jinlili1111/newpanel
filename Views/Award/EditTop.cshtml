@@ -1,0 +1,126 @@
+﻿@model SqlDataProvider.Data.TopInfo
+@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "编辑";
+    var item = Model;
+}
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h4 class="modal-title">@ViewBag.Title <i class="gi gi-chevron-right" style="font-size:8px"></i><span class="text-warning"><strong>@item.Name</strong></span></h4>
+</div>
+<div class="modal-body">
+    <!-- Form add -->
+
+    <form action="@Html.Raw(Url.Action("EditTop", "Award", new { id = item.ID }))" 
+          method="post" class="form-horizontal form-bordered" id="frm-update-top">
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="ZoneID">编号</label>
+                <div class="col-md-8">
+                    <input type="text" class="form-control input-sm" value="@item.ID" disabled>
+                </div>
+                <input type="hidden" id="ID" name="ID"  value="@item.ID" />
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="ZoneID">大区</label>
+                <div class="col-md-8">
+                    <input type="text" id="ZoneID" name="ZoneID" class="form-control input-sm must-digits" value="@item.ZoneID" placeholder="输入大区ID,例如:1001">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Type">类型</label>
+                <div class="col-md-8">
+                    <input type="text" id="Type" name="Type" class="form-control input-sm must-digits" value="@item.Type" placeholder="输入类型ID,例如:1,2,3..">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Name">活动名称</label>
+                <div class="col-md-8">
+                    <input type="text" id="Name" name="Name" class="form-control input-sm must-required" value="@item.Name" placeholder="输入活动名称">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Detail">详细信息</label>
+                <div class="col-md-8">
+                    <textarea id="Detail" name="Detail" rows="4" class="form-control must-required" placeholder="描述信息">@item.Detail</textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="GetTable">获取表信息</label>
+                <div class="col-md-8">
+                    <input type="text" id="GetTable" name="GetTable" class="form-control input-sm must-required" value="@item.GetTable" placeholder="通过xxx表获取数据,例如:V_Sys_Users_Detail">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Condition1">获取条件1</label>
+                <div class="col-md-8">
+                    <input type="text" id="Condition1" name="Condition1" class="form-control input-sm must-required" value="@item.Condition1" placeholder="获取数据的条件1">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Condition2">获取条件2</label>
+                <div class="col-md-8">
+                    <input type="text" id="Condition2" name="Condition2" class="form-control input-sm must-required" value="@item.Condition2" placeholder="获取数据的条件2">
+                </div>
+            </div>
+        <div class="form-group form-actions">            
+            <div class="col-md-12 text-right">
+                <button type="submit" class="btn btn-sm btn-primary btn-submit">更新</button>
+                <button type="button" class="btn btn-sm btn-success" data-dismiss="modal">取消</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- END Form add -->
+</div>
+
+@section Scripts{
+    <script>
+        $(function () {            
+
+            var startBtn = $('.btn-submit');
+            // On start button click start loading again
+            startBtn.on('click', function () {
+                $(this).button('loading');
+            });
+            
+            /* Validate */
+            $('form#frm-update-top').each(function () {   // <- selects every <form> on page
+                $(this).validate({        // <- initialize validate() on each form
+                    errorClass: 'help-block animation-slideDown', // You can change the animation class for a different entrance animation - check animations page
+                    errorElement: 'div',
+                    errorPlacement: function (error, e) {
+                        e.parents('.form-group > div').append(error);
+                    },
+                    highlight: function (e) {
+                        $(e).closest('.form-group').removeClass('has-success has-error').addClass('has-error');
+                        $(e).closest('.help-block').remove();
+                        startBtn.button('reset');
+                    },
+                    success: function (e) {
+                        e.closest('.form-group').removeClass('has-success has-error');
+                        e.closest('.help-block').remove();
+                    },
+                    submitHandler: function (e) {
+                        $('#loading-bgr').show();
+                        $.ajax({
+                            url: e.action,
+                            type: e.method,
+                            data: $(e).serialize(),
+                            success: function (result) {
+                                $('#loading-bgr').hide();
+                                $('#response-hodler').html(result);
+                                startBtn.button('reset');
+                            },
+                            error: function (result) {
+                                $('#loading-bgr').hide();
+                                startBtn.button('reset');
+                            }
+                        });
+                        return false;
+                    }
+                });
+            });
+
+        });
+    </script>
+}

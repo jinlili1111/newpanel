@@ -1,0 +1,109 @@
+﻿@model SqlDataProvider.Data.PlayerInfo
+@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "账号管理";
+    var item = Model;
+}
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h4 class="modal-title">@ViewBag.Title <i class="gi gi-chevron-right" style="font-size:10px"></i>
+    <span class="text-success">@item.UserName</span> <i class="gi gi-chevron-right" style="font-size:10px"></i>
+    <span class="text-success">@item.NickName</span> 
+    </h4>
+</div>
+<div class="modal-body">
+    <!--Content -->
+    <header class="navbar navbar-default" style="margin-bottom:15px">
+        <!-- Horizontal Menu-->
+        <div id="horizontal-menu-collapse" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li data-link="info" class="active">
+                    <a href="javascript:reloadDetail();">玩家游戏数据</a>
+                </li>
+                <li data-link="bag" class="dropdown">
+                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">其他背包<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="javascript:loadDetailUserData('EquipBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 装备背包</a></li>
+                        <li><a href="javascript:loadDetailUserData('StoreBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 道具背包</a></li>
+                        <li><a href="javascript:loadDetailUserData('DressBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 服装背包</a></li>
+                        <li><a href="javascript:loadDetailUserData('BeadBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 宝珠背包</a></li>
+                        <li><a href="javascript:loadDetailUserData('MagicStoneBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 魔石背包</a></li>
+                        <li><a href="javascript:loadDetailUserData('FarmBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i> 农场背包</a></li>
+                        <li class="divider"></li>
+                        <li><a href="javascript:loadDetailUserData('Consortia', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i>公会仓库</a></li>
+                        <li><a href="javascript:loadDetailUserData('MagicHouseBag', 'detail-content', true);"><i class="fa fa-asterisk fa-fw pull-right"></i>魔法屋仓库</a></li>
+                    </ul>
+                </li>   
+            </ul>          
+        </div>
+        <!-- END Horizontal Menu + Search -->
+    </header>
+    <!-- END Header -->
+    <div id="detail-content" style="height:598px;color:">       
+    </div>
+    <!--Content -->    
+</div>
+<div class="modal-footer">
+    <div class="form-actions">
+        <div class="text-right">           
+             <button type="button" class="btn btn-sm btn-success open-model"
+                    data-link="@Html.Raw(Url.Action("UnForbidPlayer", "Users", routeValues: new { id = item.ID, zid = item.ZoneID, nick = item.NickName}))">解封</button>
+            <button type="button" class="btn btn-sm btn-warning open-model"
+                    data-link="@Html.Raw(Url.Action("ForbidPlayer", "Users", routeValues: new { id = item.ID, zid = item.ZoneID, nick = item.NickName}))">封号</button>
+            <button type="button" class="btn btn-sm btn-danger open-model"
+                    data-link="@Html.Raw(Url.Action("KickPlayer", "Users", routeValues: new { id = item.ID, zid = item.ZoneID, nick = item.NickName}))">踢出</button>
+            <button type="button" class="btn btn-sm btn-success" data-dismiss="modal">关闭</button>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script>
+        $(function () {
+            reloadDetail();
+            //call model
+            ModelGeneral.initBtn(null, 9999);
+        });
+
+        function loadDetailUserData(type, updateId, hasLazy) {
+            _hasLazy = false;
+            if (hasLazy != undefined && hasLazy != null)
+                _hasLazy = hasLazy;
+
+            if (_hasLazy)
+                $("#loading-bgr").show();
+            loadurl = '@Html.Raw(Url.Action("LoadDetailUserData", "Users", routeValues: new { id = item.ID, @zid = item.ZoneID}))' + "&type=" + type;
+            $.get(loadurl, function (data) {
+                $("#" + updateId).html(data);
+                if (_hasLazy)
+                    $("#loading-bgr").hide();
+            })
+            .fail(function (data) {
+                $("#" + updateId).html(getError(data.status, data.statusText));
+                $("#loading-bgr").hide();
+            });
+        }
+        function reloadDetail() {
+            loadurl = '@Html.Raw(Url.Action("ReloadDetails", "Users", routeValues: new { id = item.ID, @zid = item.ZoneID}))';
+            $.get(loadurl, function (data) {
+                $("#detail-content").html(data);
+            })
+            .fail(function (data) {
+                $("#detail-content").html(getError(data.status, data.statusText));
+                $("#loading-bgr").hide();
+            });
+        }
+        function navActive(name) {
+            var nav = $('div.navbar-collapse > ul > li');
+            $(nav).each(function () {
+                var trigger = $(this).attr("data-link");
+                if (trigger == name) {
+                    $(this).addClass("active");
+                }
+                else
+                {
+                    $(this).removeClass('active');
+                }
+            });
+        }        
+    </script>
+}

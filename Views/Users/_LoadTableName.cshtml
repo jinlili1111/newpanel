@@ -1,0 +1,31 @@
+﻿@model List<SqlDataProvider.Data.TableInfo>
+@{
+    Layout = "~/Views/Shared/_RenderLayout.cshtml";
+    ViewBag.Title = "LoadTableName";
+}
+<select id="tables-chosen" name="tables-chosen" class="select-chosen" data-placeholder="选择表" style="width: 250px;">
+    <option value="-1"></option>   
+    <optgroup label="编辑玩家帐户">
+        <option value="Sys_Users_Detail">帐户数据</option>
+    </optgroup>
+    
+</select>
+@section Scripts{
+    <script>        
+        $("#tables-chosen").change(function (e) {
+            var zoneID = $("#server-chosen").val();
+            var table = $(this).val();
+            var loadurl = 'Users/LoadData/' + zoneID + '?table=' + table;
+            $("#loading-bgr").show();
+            $.get(loadurl, function (data) {
+                $("#table-content").html(data);
+                $("#table-name").html(table);
+                $("#loading-bgr").hide();
+            })
+            .fail(function (data) {
+                $("#table-content").html(getError(data.status, data.statusText));
+                $("#loading-bgr").hide();
+            });
+        });       
+    </script>
+}
